@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="circle_rtadious">8</integer>
+
+    <!-- left hand slider -->
+    <integer name="px_114">104</integer>
+    <integer name="px_75">55</integer>
+    <integer name="px_67">50</integer>
+    <integer name="px_58">45</integer>
+    <integer name="px_51">41</integer>
+    <integer name="px_48">38</integer>
+    <integer name="px_47">37</integer>
+    <integer name="px_45">35</integer>
+    <integer name="px_44">34</integer>
+    <integer name="px_43">33</integer>
+    <integer name="px_42">32</integer>
+    <integer name="px_41">31</integer>
+    <integer name="px_39">29</integer>
+    <integer name="px_36">26</integer>
+    <integer name="px_32">22</integer>
+    <integer name="px_31">24</integer>
+    <integer name="px_30">22</integer>
+    <integer name="px_38">28</integer>
+    <integer name="px_28">22</integer>
+    <integer name="px_25">20</integer>
+    <integer name="px_20">15</integer>
+    <integer name="px_23">17</integer>
+    <integer name="px_22">16</integer>
+    <integer name="px_26">20</integer>
+    <integer name="px_27">21</integer>
+    <integer name="px_40">20</integer>
+    <integer name="px_18">14</integer>
+    <integer name="px_54">44</integer>
+    <integer name="px_21">16</integer>
+    <integer name="px_33">25</integer>
+    <integer name="px_35">27</integer>
+    <integer name="px_29">23</integer>
+    <integer name="px_49">39</integer>
+    <integer name="px_104">84</integer>
+    <integer name="px_37">27</integer>
+    <integer name="px_24">18</integer>
+    <integer name="px_34">28</integer>
+    <integer name="px_19">14</integer>
+    <integer name="px_17">12</integer>
+    <integer name="px_14">10</integer>
+    <integer name="px_16">11</integer>
+    <integer name="px_15">10</integer>
+    <integer name="px_5">2</integer>
+    <integer name="botton_anim">350</integer>
+    <integer name="delta">90</integer>
+
+</resources>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="label">#ff464646</color>
+    <color name="gradient_silver_top">#ffffff</color>
+    <color name="gradient_silver_bottom">#DCDCDC</color>
+
+    <color name="highlited_color">#D3D3D3</color>
+    <color name="topbar_code">#98D54B</color>
+    <color name="accepted">#9ACD66</color>
+    <color name="decline">#DA6E6E</color>
+    <color name="spinner_bck">#DAD8D6</color>
+    <color name="nostats">#E7991D</color>
+    <color name="unselected_tab">#FFFFFF</color>
+    <color name="selected_tab">#3C8B0C</color>
+    <color name="popup_color">#FFFFF0</color>
+    <color name="trans">#00000000</color>
+    <color name="tabcolor">#3B4A5F</color>
+    <color name="pdf_tab">#363636</color>
+    <color name="resturant_phn">#A0A0A0</color>
+    <color name="reviews_color">#5cb519</color>
+    <color name="dollar_color">#596156</color>
+    <color name="expnd_header">#F3FEEE</color>
+    <color name="expnd_child">#D7E3CF</color>
+    <color name="expnd_txt">#737373</color>
+    <color name="dark_green">#3C8B0C</color>
+    <color name="pdfbg">#85907D</color>
+
+    <color name="pdf_color">#9F9F9F</color>
+    <color name="headngcolor">#727272</color>
+    <color name="dashboard">#B9BDBC</color>
+    <color name="greencolor">#80C048</color>
+    <color name="signUpColor">#1495D5</color>
+    <color name="signinColor">#51A532</color>
+    <color name="grey76">#C2C2C2</color>
+    <color name="svg">#696969</color>
+    <color name="red">#FF0000</color>
+    <color name="agenda_selected">#ec6360</color>
+
+    <color name="static_text_color">#90AE74</color>
+    <color name="bule_header">#6A5ACD</color>
+    <color name="profile_left_button">#055779</color>
+    <color name="profile_right_button">#0e749d</color>
+    <color name="login_element">#4c4c4c</color>
+    <color name="grey_alarm">#848484</color>
+    <color name="actionbar_separator">#8B1A1A</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_start">#8B1A1A</color>
+    <color name="actionbar_background_end">#CD2626</color>
+    <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="actionbar_background_item_pressed_end">#EE7600</color>
+    <color name="indexercolor">#E1E1ED</color>
+    <color name="textback">#D3D3D3</color>
+    <color name="syncback">#1E1E1E</color>
+    <color name="aboutcolor">#6E6C6D</color>
+    <color name="weekView">#2E2E2E</color>
+    <color name="calendarmonthview">#E3E4E6</color>
+    <color name="contactname">#F3FFEE</color>
+    <color name="timepicker">#a8a8a8</color>
+    <color name="dayviewBoder">#6CC0F8</color>
+    <color name="detailcolor">#131313</color>
+    <color name="contactitem">#7D818C</color>
+    <color name="helpCentre">#D0BD19</color>
+    <color name="introText">#07000000</color>
+
+    <color name="blue">#25ace3</color>
+    <color name="green">#008000</color>
+    <color name="slidebg">#232323</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="detail_color">#96B968</color>
+    <color name="checkout_cell">#ECECEC</color>
+    <color name="deal_heading">#7C7C7C</color>
+    <color name="light_grey">#aaaaaa</color>
+
+    <color name="dark_gray">#777777</color>
+
+
+    <color name="no_favourite_header">#C4312E</color>
+
+    <color name="no_favourite_description">#989898</color>
+
+    <color name="events_heading">#777777</color>
+
+    <color name="filter_bg">#F6F6F6</color>
+    <color name="filter_unselected">#B3B2AE</color>
+    <color name="first_unselected">#646463</color>
+
+    <color name="md__transparent">#00000000</color>
+
+    <color name="first_back">#222222</color>
+
+    <color name="md__defaultBackground">#FF555555</color>
+    <color name="find_location_heaedr">#00A09E</color>
+    <color name="find_location_text">#333333</color>
+    <color name="pink">#ED6360</color>
+    <color name="check_these">#C6C6C6</color>
+
+    <color name="dash_signin">#B3B2AE</color>
+    <color name="delivery_discount">#EBB534</color>
+    <color name="add_back">#C8C8C8</color>
+    <color name="value_cart_background">#E3E1DF</color>
+
+
+    <color name="cart_background">#EFEEED</color>
+    <color name="filter_selected">#C5312F</color>
+    <color name="divider_color">#C4C3C2</color>
+    <color name="footer_color">#515151</color>
+    <color name="greay_color">#747474</color>
+    <color name="lineplace">#B3B2AE</color>
+    <color name="map_divider">#F5F5F4</color>
+    <color name="resturant_address">#AFADA9</color>
+    <color name="appcolor">#C23333</color>
+    <color name="menu_my_account">#C33333</color>
+    <color name="value_meal_color">#CDCCC7</color>
+    <color name="white">#ffffff</color>
+    <color name="white_transparent">#eeffffff</color>
+    <color name="order_item_color">#A09F9C</color>
+    <color name="cat_request_delivery">#3C3C3B</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#88000000</color>
+    <color name="back_color">#D6D3D3</color>
+    <color name="transparent_black">#494949</color>
+    <color name="light_black">#232323</color>
+    <color name="red_color">#c4312e</color>
+    <color name="light_gray">#91908E</color>
+    <color name="gray_text">#b3b2ae</color>
+    <color name="remove_fav">#A5A4A0</color>
+    <color name="opens_text_color">#BEBCB8</color>
+    <color name="green_box">#6EA331</color>
+    <color name="text_color_discription">#61605E</color>
+    <color name="yellow">#d1a949</color>
+    <color name="yellow_box">#F1D778</color>
+    <color name="hint_color">#b6b5b1</color>
+    <color name="editbox_color">#9F9F9F</color>
+    <color name="edit_back">#EAB533</color>
+    <color name="hint_edittext">#C8C8CD</color>
+    <color name="opens_color">#EFBD43</color>
+    <color name="golden">#e5b458</color>
+    <color name="find_nearest">#898886</color>
+    <color name="thin_black">#61605e</color>
+    <color name="included">#93928f</color>
+    <color name="description">#989794</color>
+    <color name="menu_packages">#d0cfce</color>
+    <color name="edit">#c23333</color>
+    <color name="cancel">#8d8c89</color>
+    <color name="foocrew">#EAB841</color>
+    <color name="catering_menu_detail_back">#CBCAC7</color>
+    <color name="catering_menu_back">#E7E6E4</color>
+    <color name="list_item_background">#F5F5F5</color>
+    <color name="add_payment_title">#C23333</color>
+
+    <color name="right_fragment_bg">#EEEDEC</color>
+
+    <color name="deal_offer">#7E5613</color>
+
+    <color name="cancel_btn">#9D9C99</color>
+    <color name="fav_btn">#C3C3C3</color>
+    <color name="mp_btn">#4F4F4F</color>
+    <color name="supply_text">#91918F</color>
+
+    <color name="right_gray">#5B5A5A</color>
+
+    <color name="place_order_grey">#8D8D8D</color>
+
+
+    <color name="fav_item_unchck">#7D7D79</color>
+    <color name="spcl_itnst">#4B4B4B</color>
+
+    <color name="spcl_itnst_TXT">#848383</color>
+</resources>
